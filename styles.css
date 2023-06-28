@@ -4,22 +4,10 @@ body {
     font-size: 18px;
   }
 
+
 #name{
   font-family: Comic Sans MS, Comic Sans, Cursive;
   font-size: 25px;
-}
-
-h1 {
-    font-size: 35px;
-    margin: 5px 0px;
-}
-
-h2 {
-  margin: 5px 0px;
-}
-
-h3 {
-  margin: 5px 0px;
 }
 
 .main{
@@ -75,6 +63,18 @@ nav ul li a:hover:not(.active) {
 .active {
   background-color: #98b7ff;
 }
+
+.grid {
+  white-space: normal ;
+  /* border: 1px solid black; */
+  display: grid;
+  grid-auto-flow: column;
+  max-width: 100%;
+}
+
+/* ul {
+  border: 1px solid black;
+} */
 
 /* ul {
   list-style-type: none;
