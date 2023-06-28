@@ -1,14 +1,16 @@
 body {
     background-color: rgb(255, 255, 255);
-    font-family: din-round, sans-serif;
+    font-family: 'Figtree', sans-serif;
     font-size: 18px;
   }
 
 
-#name{
-  font-family: Comic Sans MS, Comic Sans, Cursive;
-  font-size: 25px;
-}
+  #name{
+    font-family: 'Gilroy-Bold', sans-serif;
+    font-size: 45px;
+    position: relative;
+    top: 20px;
+  }
 
 .main{
   margin-left: 100px;
@@ -16,12 +18,30 @@ body {
 }
 
 .header{
-  font-family: "Arial-Black", sans-serif;
+  font-family: 'Figtree', sans-serif;
   font-weight: bold;
-  width: 100%;
-  height: 100%;
+  /* width: 100%;
+  height: 100%; */
   background: rgb(255, 255, 255);
   border-bottom: 1px solid rgb(40, 40, 40);
+  position: relative;
+  bottom: 35px;
+}
+
+h1 {
+  font-family: 'Figtree', sans-serif;
+}
+
+h2 {
+  font-family: 'Figtree', sans-serif;
+}
+
+h3 {
+  font-family: 'Figtree', sans-serif;
+}
+
+h4 {
+  font-family: 'Figtree', sans-serif;
 }
 
 nav{
@@ -46,7 +66,7 @@ nav ul li{
 nav ul li a{
   display: block;
   padding: 8px;
-  background-color: #dddddd;
+  background-color: white;
   text-decoration: none;
   color: #303030;
 }
@@ -61,20 +81,18 @@ nav ul li a:hover:not(.active) {
 }
 
 .active {
-  background-color: #98b7ff;
+  background-color: #b5cbff;
 }
 
 .grid {
   white-space: normal ;
-  /* border: 1px solid black; */
   display: grid;
   grid-auto-flow: column;
-  max-width: 100%;
 }
 
-/* ul {
-  border: 1px solid black;
-} */
+.skills {
+  margin: 0px;
+}
 
 /* ul {
   list-style-type: none;
