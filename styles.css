@@ -5,19 +5,19 @@ body {
   }
 
 
-  #name{
+  #name {
     font-family: 'Gilroy-Bold', sans-serif;
     font-size: 45px;
     position: relative;
-    top: 20px;
+    top: 40px;
   }
 
-.main{
+.main {
   margin-left: 100px;
   margin-right: 100px;
 }
 
-.header{
+.header {
   font-family: 'Figtree', sans-serif;
   font-weight: bold;
   /* width: 100%;
@@ -25,16 +25,16 @@ body {
   background: rgb(255, 255, 255);
   border-bottom: 1px solid rgb(40, 40, 40);
   position: relative;
-  bottom: 35px;
+  bottom: 40px;
 }
 
-nav{
+nav {
   display: flex;
   justify-content: space-between;
   align-items: end;
 }
 
-nav ul{
+nav ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -42,12 +42,12 @@ nav ul{
   background-color: white;
 }
 
-nav ul li{
+nav ul li {
   float: left;
   border-right: 1px solid black;
 }
 
-nav ul li a{
+nav ul li a {
   display: block;
   padding: 8px;
   background-color: white;
@@ -91,3 +91,11 @@ img {
 a {
   color: black;
 }
+
+/* * {
+  border: 1px solid black;
+} */
+
+/* .alignright {
+	float: right;
+} */
