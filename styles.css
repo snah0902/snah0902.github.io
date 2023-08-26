@@ -9,6 +9,7 @@ body {
     font-family: 'Gilroy-Bold', sans-serif;
     font-size: 45px;
     position: relative;
+    margin-top: 50px;
     margin-bottom: 0px;
     -webkit-touch-callout: none; /* iOS Safari */
     -webkit-user-select: none; /* Safari */
