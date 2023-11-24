@@ -83,11 +83,13 @@ nav ul li a:hover:not(.active) {
 .grid {
   white-space: normal;
   display: grid;
+  justify-items: center;
   grid-auto-flow: column;
 }
 
 .skills {
   margin: 0px;
+  padding: 0px;
 }
 
 /* ul {
