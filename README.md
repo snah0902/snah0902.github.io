@@ -1,1 +1,1 @@
-Personal website hosted on stephennah.tech
+Personal website hosted on stephennah.dev
