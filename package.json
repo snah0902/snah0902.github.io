@@ -1,0 +1,29 @@
+{
+  "name": "snah0902.github.io",
+  "version": "1.0.0",
+  "description": "Personal website hosted on stephennah.dev",
+  "main": "index.js",
+  "scripts": {
+    "compile-markdown": "node scripts/compile-markdown.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snah0902/snah0902.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/snah0902/snah0902.github.io/issues"
+  },
+  "homepage": "https://github.com/snah0902/snah0902.github.io#readme",
+  "dependencies": {
+    "rehype-format": "^5.0.1",
+    "rehype-raw": "^7.0.0",
+    "rehype-stringify": "^10.0.1",
+    "remark-parse": "^11.0.0",
+    "remark-rehype": "^11.1.2",
+    "unified": "^11.0.5"
+  }
+}

@@ -80,22 +80,6 @@ nav ul li a:hover:not(.active) {
   background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(144,236,255,1) 100%);
 }
 
-.grid {
-  white-space: normal;
-  display: grid;
-  justify-items: center;
-  grid-auto-flow: column;
-}
-
-.skills {
-  margin: 0px;
-  padding: 0px;
-}
-
-/* ul {
-  list-style-type: none;
-} */
-
 img {
   display: block;
   margin-left: auto;
@@ -105,6 +89,10 @@ img {
 a {
   color: black;
 }
+
+/* ul {
+  list-style-type: none;
+} */
 
 /* * {
   border: 1px solid black;
