@@ -21,7 +21,7 @@ Not everyone should have retirement accounts. However, you should if:
 The second point is the harder one, and should only generally be considered
 after you build an emergency fund (some money that's easily accessible). People
 typically recommend three to six months of living expenses as an adequate
-emergency fund, although this number depends on your living/finanical situation.
+emergency fund, although this number depends on your living/financial situation.
 
 But if you can afford to invest your money, you probably should. If the
 alternative is leaving that money in a checking account because it's "safer",
@@ -49,14 +49,15 @@ funds, and any realized gains (gains from investments) are taxed.
 There's a few other important details about the Roth IRA:
 
 * Contributions can go up to the annual limit or your taxable compensation for
-  the year, whichever is less. As of 2025, the annual limit is $7,000 ($8,000 if
-  at least age 50).
+  the year, whichever is less. As of
+  [2025](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-ira-contribution-limits),
+  the annual limit is $7,000 ($8,000 if at least age 50).
 * Contributions can be withdrawn at any time tax-free and penalty-free.
   Withdrawn contributions still count for the yearly contribution limit.
-* Earnings can be withdrawal tax-free and penalty-free so long as you're under
+* Earnings can be withdrawn tax-free and penalty-free so long as you're under
   the age of 59½ and the account has been open for at least 5 years. Attempting
   to withdraw earnings under the required age limit leads to an early withdrawal
-  fee of 10%.
+  fee of 10% as well.
 * If your Modified Adjusted Gross Income (MAGI) is too high, you're ineligible
   to directly contribute (there are ways to bypass this which will be discussed
   later).
@@ -127,7 +128,8 @@ Otherwise, the Trad IRA and Roth IRA are similar:
 * Both have the contribution limit of $7,000. Note that this limit is shared
   across the IRAs.
 * Both have an early withdrawal penalty. One difference is that in the Trad IRA,
-  contributions cannot be withdrawn early penalty-free.
+  contributions cannot be withdrawn early penalty-free (barring
+  [exceptions](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-exceptions-to-tax-on-early-distributions)).
 
 I claimed earlier that Trad IRA contributions are pre-tax. Unfortunately, this
 is not true if you have a retirement plan at work and if your MAGI is at least a
@@ -188,10 +190,10 @@ matter too much to you.
 
 #### Employer Match
 
-Some employers are nice enough to offer a matching contribution. The type of
-match depends heavily on the employer, but the usual format is based on how much
-you personally contribute and your salary. One example might look like "50% of
-employee's contributions up to 6% of salary". 
+Some employers offers a matching contribution. The type of match depends heavily
+on the employer, but the usual format is based on how much you personally
+contribute and your salary. One example might look like "50% of employee's
+contributions up to 6% of salary". 
 
 One thing to note is that the employee contribution limit does not include your
 employer's match. There's a separate limit for the employer + employee total
@@ -200,7 +202,7 @@ contribution, that being $70,000 as of
 So you don't need to worry about "maxing" out your employer match, or doing math
 to hit exactly the employee contribution limit number.
 
-The takeaway is that if your employer has a contibution match, this is the first
+The takeaway is that if your employer has a contribution match, this is the first
 priority for retirement account contributions. This is essentially free money
 that your employer is giving you, so you should be trying to maximize their
 match. 
@@ -246,7 +248,7 @@ effort is up to you.
 
 If you aren't yet enrolled in a health plan, you may be considering enrolling in
 a HDHP for access to an HSA. Unfortunately, the US health system is its own
-headache to learn about. If you don't know about stuff like deductibles or
+headache to learn about. If you don't know about terms like deductibles or
 coinsurance, then you should learn about that before enrolling in a health plan.
 This information is outside the scope of this post, but here's a couple of
 resources about this:
