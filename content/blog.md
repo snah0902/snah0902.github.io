@@ -9,7 +9,7 @@ I'd like to admit)
   ## Posts
 
   - [An Introduction Into Retirement Accounts](/blog/retirement-accounts-intro.html)
-    <br/><small>WIP</small>
+    <br/><small>September 28, 2025</small>
 
   - [CMU Course Reviews](/blog/courses.html)
     <br/><small>September 21, 2025</small>
