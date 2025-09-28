@@ -54,14 +54,13 @@ There's a few other important details about the Roth IRA:
   the annual limit is $7,000 ($8,000 if at least age 50).
 * Contributions can be withdrawn at any time tax-free and penalty-free.
   Withdrawn contributions still count for the yearly contribution limit.
-* Earnings can be withdrawn tax-free and penalty-free so long as you're under
-  the age of 59½ and the account has been open for at least 5 years. Attempting
-  to withdraw earnings under the required age limit leads to an early withdrawal
-  fee of 10% as well.
+* Earnings can be withdrawn tax-free and penalty-free so long as you're at or
+  over the age of 59½ and the account has been open for at least 5 years.
+  Attempting to withdraw earnings under the required age limit leads to an early
+  withdrawal fee of 10% as well.
 * If your Modified Adjusted Gross Income (MAGI) is too high, you're ineligible
   to directly contribute (there are ways to bypass this which will be discussed
   later).
-
 
  This is probably the easiest place to start investing. It's with after-tax
  funds, which means that there's no extra tax complications. The bar for
@@ -238,7 +237,7 @@ the purchase is made. The other way is to pay out-of-pocket, then reimburse the
 purchase using your HSA at a much later date.
 
 Optimally, the reimbursing payments option is better due to compound interest
-(assuming you can afford to pay out-of-pocket). However, in order to reimbuse
+(assuming you can afford to pay out-of-pocket). However, in order to reimburse
 the payment, you also need to keep track of some proof of purchase, in case
 you're ever audited by the IRS. What this effectively means is keeping track of
 dozens of receipts across many years. Whether the extra HSA funds is worth the
