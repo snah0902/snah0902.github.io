@@ -1,6 +1,7 @@
 import fs from "fs";
 import { unified } from "unified";
 import remarkParse from "remark-parse";
+import remarkGfm from "remark-gfm";
 import remarkRehype from "remark-rehype";
 import rehypeStringify from "rehype-stringify";
 import rehypeFormat from "rehype-format";
@@ -12,7 +13,7 @@ function makeHead(title) {
 <head>
   <meta charset="utf-8">
   <title>Stephen Nah - ${title}</title>
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="/styles.css">
   <link href="https://fonts.cdnfonts.com/css/gilroy-bold" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -25,10 +26,10 @@ function makeHead(title) {
 }
 
 const navItems = [
-  { label: 'about me', file: 'index.html' },
-  { label: 'projects', file: 'projects.html' },
-  { label: 'resume', file: 'resume.html' },
-  { label: 'courses', file: 'courses.html' }
+  { label: 'about me', file: '/index.html' },
+  { label: 'projects', file: '/projects.html' },
+  { label: 'resume', file: '/resume.html' },
+  { label: 'blog', file: '/blog.html' }
 ];
 
 
@@ -59,6 +60,7 @@ async function compileMarkdown(inputPath, outputPath, title) {
   const md = fs.readFileSync(inputPath, "utf-8");
   const processor = unified()
     .use(remarkParse)
+    .use(remarkGfm)
     .use(remarkRehype, { allowDangerousHtml: true })
     .use(rehypeFormat, { indent: 2 })
     .use(rehypeStringify, { allowDangerousHtml: true });
@@ -84,4 +86,6 @@ ${markdownContent}
 compileMarkdown('content/index.md', 'index.html', 'About Me')
 compileMarkdown('content/projects.md', 'projects.html', 'Projects');
 compileMarkdown('content/resume.md', 'resume.html', 'Resume');
-compileMarkdown('content/courses.md', 'courses.html', 'Courses');
+compileMarkdown('content/blog.md', 'blog.html', 'Blog');
+compileMarkdown('content/blog/courses.md', 'blog/courses.html', 'Courses');
+compileMarkdown('content/blog/retirement-accounts-intro.md', 'blog/retirement-accounts-intro.html', 'Retirement Accounts Introduction');

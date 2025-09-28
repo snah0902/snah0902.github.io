@@ -1,5 +1,5 @@
 About Me
-========
+=======
 
 Hello! 👋 I'm Stephen, a software engineer at [Google](https://www.google.com/).
 I recently graduated from Carnegie Mellon University with a bachelor's degree in

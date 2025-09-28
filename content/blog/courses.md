@@ -3,6 +3,8 @@ Courses I've Taken
 
 ## A compilation of the courses I've taken at CMU
 
+##### Last modified: 9-21-2025
+
 I've seen a number of CMU students write about their courses, so I'd thought I'd
 do the same. For some context, I came to CMU with the intention of majoring in
 Physics, which explains the many science classes that I initially took as well
