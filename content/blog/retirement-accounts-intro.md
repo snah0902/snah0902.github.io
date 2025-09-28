@@ -98,7 +98,7 @@ that may help with decision-making:
 
 * [Fidelity Investing ideas for your IRA](https://www.fidelity.com/viewpoints/retirement/ira-portfolio)
 * [Bogleheads Asset allocation](https://www.bogleheads.org/wiki/Asset_allocation)
-* [Some reddit post from r/FinancialPlanning](https://www.reddit.com/r/FinancialPlanning/comments/1b82k6j/opened_a_roth_ira_what_do_i_actually_invest_in/)
+* [Youtube video by The Money Guy Show](https://youtu.be/MIZKkeCglvs?si=OYFl2x6wJeqX_4ha)
 
 The TL;DR is that what you choose to invest in should depend on your age and
 risk tolerance.
