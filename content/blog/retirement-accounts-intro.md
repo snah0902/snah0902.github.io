@@ -208,7 +208,7 @@ match.
 
 ### Health Savings Account (HSA)
 
-#### What is a HSA?
+#### What is an HSA?
 
 An HSA is another savings account, this one moreso used for medical expenses.
 You can only have an HSA if you are enrolled in a High-Deductible Health Plan
@@ -217,9 +217,9 @@ like the other accounts here, HSA funds can be invested.
 
 How the taxes work for the HSA is that you contribute pre-tax funds to it. At
 any point, you can withdraw funds for qualified medical expenses tax-free. If
-the withdrawn funds aren't for medical expenses, then you pay the capital gains
-tax on withdrawals if at least age 59½. Otherwise, you also pay the early
-withdrawal fee.
+the withdrawn funds aren't for medical expenses, then you pay the income tax on
+withdrawals if at least age 59½. Otherwise, you also pay the early withdrawal
+fee.
 
 <img src="/images/retirement-accounts-intro/hsa.png" alt="HSA" style="max-width:90%; height:auto;">
 
